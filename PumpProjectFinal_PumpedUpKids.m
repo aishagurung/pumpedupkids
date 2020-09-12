@@ -1,6 +1,6 @@
 % -----------------------------------------------
 % Program Number: Fluids Pump Project
-% Submitted By: Alex Mehringer, Eduardo Velez, Aishwarya Gurung
+% Submitted By: Aishwarya Gurung
 %
 % Credit to:
 %
